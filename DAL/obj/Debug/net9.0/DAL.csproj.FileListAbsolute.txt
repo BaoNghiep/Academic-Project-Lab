@@ -1,0 +1,14 @@
+D:\PE.PRN212.SU25.NguyenBaoNghiep\DAL\bin\Debug\net9.0\DAL.deps.json
+D:\PE.PRN212.SU25.NguyenBaoNghiep\DAL\bin\Debug\net9.0\DAL.dll
+D:\PE.PRN212.SU25.NguyenBaoNghiep\DAL\bin\Debug\net9.0\DAL.pdb
+D:\PE.PRN212.SU25.NguyenBaoNghiep\DAL\obj\Debug\net9.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PE.PRN212.SU25.NguyenBaoNghiep\DAL\obj\Debug\net9.0\DAL.AssemblyInfoInputs.cache
+D:\PE.PRN212.SU25.NguyenBaoNghiep\DAL\obj\Debug\net9.0\DAL.AssemblyInfo.cs
+D:\PE.PRN212.SU25.NguyenBaoNghiep\DAL\obj\Debug\net9.0\DAL.csproj.CoreCompileInputs.cache
+D:\PE.PRN212.SU25.NguyenBaoNghiep\DAL\obj\Debug\net9.0\DAL.dll
+D:\PE.PRN212.SU25.NguyenBaoNghiep\DAL\obj\Debug\net9.0\refint\DAL.dll
+D:\PE.PRN212.SU25.NguyenBaoNghiep\DAL\obj\Debug\net9.0\DAL.pdb
+D:\PE.PRN212.SU25.NguyenBaoNghiep\DAL\obj\Debug\net9.0\ref\DAL.dll
+D:\PE.PRN212.SU25.NguyenBaoNghiep\DAL\bin\Debug\net9.0\DAL.runtimeconfig.json
+D:\PE.PRN212.SU25.NguyenBaoNghiep\DAL\obj\Debug\net9.0\DAL.csproj.AssemblyReference.cache
+D:\PE.PRN212.SU25.NguyenBaoNghiep\DAL\obj\Debug\net9.0\DAL.genruntimeconfig.cache

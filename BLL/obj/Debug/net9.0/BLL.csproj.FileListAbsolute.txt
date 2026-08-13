@@ -1,0 +1,15 @@
+D:\PE.PRN212.SU25.NguyenBaoNghiep\BLL\bin\Debug\net9.0\BLL.deps.json
+D:\PE.PRN212.SU25.NguyenBaoNghiep\BLL\bin\Debug\net9.0\BLL.dll
+D:\PE.PRN212.SU25.NguyenBaoNghiep\BLL\bin\Debug\net9.0\BLL.pdb
+D:\PE.PRN212.SU25.NguyenBaoNghiep\BLL\bin\Debug\net9.0\DAL.dll
+D:\PE.PRN212.SU25.NguyenBaoNghiep\BLL\bin\Debug\net9.0\DAL.pdb
+D:\PE.PRN212.SU25.NguyenBaoNghiep\BLL\obj\Debug\net9.0\BLL.csproj.AssemblyReference.cache
+D:\PE.PRN212.SU25.NguyenBaoNghiep\BLL\obj\Debug\net9.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PE.PRN212.SU25.NguyenBaoNghiep\BLL\obj\Debug\net9.0\BLL.AssemblyInfoInputs.cache
+D:\PE.PRN212.SU25.NguyenBaoNghiep\BLL\obj\Debug\net9.0\BLL.AssemblyInfo.cs
+D:\PE.PRN212.SU25.NguyenBaoNghiep\BLL\obj\Debug\net9.0\BLL.csproj.CoreCompileInputs.cache
+D:\PE.PRN212.SU25.NguyenBaoNghiep\BLL\obj\Debug\net9.0\BLL.csproj.Up2Date
+D:\PE.PRN212.SU25.NguyenBaoNghiep\BLL\obj\Debug\net9.0\BLL.dll
+D:\PE.PRN212.SU25.NguyenBaoNghiep\BLL\obj\Debug\net9.0\refint\BLL.dll
+D:\PE.PRN212.SU25.NguyenBaoNghiep\BLL\obj\Debug\net9.0\BLL.pdb
+D:\PE.PRN212.SU25.NguyenBaoNghiep\BLL\obj\Debug\net9.0\ref\BLL.dll
