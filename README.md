@@ -1,1 +1,1 @@
-# SnowICE
+Academic project lab
